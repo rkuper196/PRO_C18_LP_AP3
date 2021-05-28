@@ -10,10 +10,10 @@ function setup() {
   //Um dado do tipo matriz
   newArray = ["Item1", 32, name, num];
   
-  //acessar o 1º ítem na matriz e inscrevê-lo no console
+  //acessar o 1º item na matriz e inscrevê-lo no console
   console.log(newArray[0]);
   
-  //acessar o 3º ítem na matriz e inscrevê-lo no console
+  //acessar o 3º item na matriz e inscrevê-lo no console
   console.log(newArray[2]);
 
   //encontrar o comprimento (length) da matriz
